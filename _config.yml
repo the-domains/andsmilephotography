@@ -1,0 +1,28 @@
+name: AndSmilePhotography
+favicon: null
+layout_spectrum: 0.2758840525057167
+typography_spectrum: 0.15194064937531948
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.3260321347042918
+  lightness: 0.3927991702221334
+  saturation: 0.5745227665174752
+  rhythmicContrast: 0.10639358009211719
+purpose: []
